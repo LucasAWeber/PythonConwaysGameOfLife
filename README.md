@@ -1,4 +1,4 @@
-# ShockingRotom July 2021
+# Lucas Weber July 2021
 ## PythonConwaysGameOfLife
 ###### Conway's game of life written in python
 Controls
